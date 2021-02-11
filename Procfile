@@ -1,1 +1,1 @@
-Worker python
+Worker python WhorlsMiner.py
