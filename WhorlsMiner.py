@@ -22,3 +22,4 @@ while sellLoop == 1:
     pyautogui.press("enter")
 
     print("Done! Looping...")
+    client.run('ODA5NDk5NDQ2MjkwNDE1Njg2.YCV_Gw.o95UaYlWEughMMqm3CD1V9WL0iY') 
